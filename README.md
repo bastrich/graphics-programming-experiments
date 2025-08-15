@@ -1,4 +1,4 @@
-https://bastrich.github.io/graphics-programming-experiments/3DSinGames/
-https://bastrich.github.io/graphics-programming-experiments/averageFace/
-https://bastrich.github.io/graphics-programming-experiments/instagramFilter/
-https://bastrich.github.io/graphics-programming-experiments/webcamPiano/
+ - https://bastrich.github.io/graphics-programming-experiments/3DSinGames/
+ - https://bastrich.github.io/graphics-programming-experiments/averageFace/
+ - https://bastrich.github.io/graphics-programming-experiments/instagramFilter/
+ - https://bastrich.github.io/graphics-programming-experiments/webcamPiano/
